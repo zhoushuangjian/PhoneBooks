@@ -7,6 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		166132EC1C31867C003EE849 /* phone.png in Resources */ = {isa = PBXBuildFile; fileRef = 166132EB1C31867C003EE849 /* phone.png */; };
+		16688A4B1C314C53002C043E /* 0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 16688A451C314C53002C043E /* 0.jpg */; };
+		16688A4C1C314C53002C043E /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 16688A461C314C53002C043E /* 1.jpg */; };
+		16688A4D1C314C53002C043E /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 16688A471C314C53002C043E /* 2.jpg */; };
+		16688A4E1C314C53002C043E /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 16688A481C314C53002C043E /* 3.jpg */; };
+		16688A4F1C314C53002C043E /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 16688A491C314C53002C043E /* 4.jpg */; };
+		16688A501C314C53002C043E /* 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 16688A4A1C314C53002C043E /* 5.jpg */; };
 		16C2087F1C30CDF800B00015 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 16C2087E1C30CDF800B00015 /* main.m */; };
 		16C208821C30CDF800B00015 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 16C208811C30CDF800B00015 /* AppDelegate.m */; };
 		16C208851C30CDF800B00015 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 16C208841C30CDF800B00015 /* ViewController.m */; };
@@ -15,6 +22,9 @@
 		16C2088D1C30CDF800B00015 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 16C2088B1C30CDF800B00015 /* LaunchScreen.storyboard */; };
 		16C208981C30CDF800B00015 /* PhoneBookTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 16C208971C30CDF800B00015 /* PhoneBookTests.m */; };
 		16C208A31C30CDF800B00015 /* PhoneBookUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 16C208A21C30CDF800B00015 /* PhoneBookUITests.m */; };
+		16C208B21C30D10C00B00015 /* PhoneBookManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 16C208B11C30D10C00B00015 /* PhoneBookManager.m */; };
+		16D5A62A1C320EA900E45C63 /* ZSJTELCALL.m in Sources */ = {isa = PBXBuildFile; fileRef = 16D5A6291C320EA900E45C63 /* ZSJTELCALL.m */; };
+		16D5A62C1C322E0300E45C63 /* allview.png in Resources */ = {isa = PBXBuildFile; fileRef = 16D5A62B1C322E0300E45C63 /* allview.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +45,13 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		166132EB1C31867C003EE849 /* phone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = phone.png; sourceTree = "<group>"; };
+		16688A451C314C53002C043E /* 0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 0.jpg; sourceTree = "<group>"; };
+		16688A461C314C53002C043E /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		16688A471C314C53002C043E /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
+		16688A481C314C53002C043E /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		16688A491C314C53002C043E /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpg; sourceTree = "<group>"; };
+		16688A4A1C314C53002C043E /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpg; sourceTree = "<group>"; };
 		16C2087A1C30CDF800B00015 /* PhoneBook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PhoneBook.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		16C2087E1C30CDF800B00015 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		16C208801C30CDF800B00015 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -51,6 +68,11 @@
 		16C2089E1C30CDF800B00015 /* PhoneBookUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PhoneBookUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		16C208A21C30CDF800B00015 /* PhoneBookUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PhoneBookUITests.m; sourceTree = "<group>"; };
 		16C208A41C30CDF800B00015 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		16C208B01C30D10C00B00015 /* PhoneBookManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PhoneBookManager.h; sourceTree = "<group>"; };
+		16C208B11C30D10C00B00015 /* PhoneBookManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PhoneBookManager.m; sourceTree = "<group>"; };
+		16D5A6281C320EA900E45C63 /* ZSJTELCALL.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZSJTELCALL.h; sourceTree = "<group>"; };
+		16D5A6291C320EA900E45C63 /* ZSJTELCALL.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZSJTELCALL.m; sourceTree = "<group>"; };
+		16D5A62B1C322E0300E45C63 /* allview.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = allview.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,10 +123,21 @@
 		16C2087C1C30CDF800B00015 /* PhoneBook */ = {
 			isa = PBXGroup;
 			children = (
+				16D5A6271C320EA900E45C63 /* 打电话SDK */,
 				16C208801C30CDF800B00015 /* AppDelegate.h */,
 				16C208811C30CDF800B00015 /* AppDelegate.m */,
 				16C208831C30CDF800B00015 /* ViewController.h */,
 				16C208841C30CDF800B00015 /* ViewController.m */,
+				16688A451C314C53002C043E /* 0.jpg */,
+				16688A461C314C53002C043E /* 1.jpg */,
+				16688A471C314C53002C043E /* 2.jpg */,
+				16688A481C314C53002C043E /* 3.jpg */,
+				16688A491C314C53002C043E /* 4.jpg */,
+				16688A4A1C314C53002C043E /* 5.jpg */,
+				166132EB1C31867C003EE849 /* phone.png */,
+				16D5A62B1C322E0300E45C63 /* allview.png */,
+				16C208B01C30D10C00B00015 /* PhoneBookManager.h */,
+				16C208B11C30D10C00B00015 /* PhoneBookManager.m */,
 				16C208861C30CDF800B00015 /* Main.storyboard */,
 				16C208891C30CDF800B00015 /* Assets.xcassets */,
 				16C2088B1C30CDF800B00015 /* LaunchScreen.storyboard */,
@@ -138,6 +171,15 @@
 				16C208A41C30CDF800B00015 /* Info.plist */,
 			);
 			path = PhoneBookUITests;
+			sourceTree = "<group>";
+		};
+		16D5A6271C320EA900E45C63 /* 打电话SDK */ = {
+			isa = PBXGroup;
+			children = (
+				16D5A6281C320EA900E45C63 /* ZSJTELCALL.h */,
+				16D5A6291C320EA900E45C63 /* ZSJTELCALL.m */,
+			);
+			path = "打电话SDK";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -246,9 +288,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				16688A4F1C314C53002C043E /* 4.jpg in Resources */,
+				16688A4D1C314C53002C043E /* 2.jpg in Resources */,
+				166132EC1C31867C003EE849 /* phone.png in Resources */,
+				16688A4B1C314C53002C043E /* 0.jpg in Resources */,
+				16D5A62C1C322E0300E45C63 /* allview.png in Resources */,
+				16688A501C314C53002C043E /* 5.jpg in Resources */,
 				16C2088D1C30CDF800B00015 /* LaunchScreen.storyboard in Resources */,
 				16C2088A1C30CDF800B00015 /* Assets.xcassets in Resources */,
 				16C208881C30CDF800B00015 /* Main.storyboard in Resources */,
+				16688A4E1C314C53002C043E /* 3.jpg in Resources */,
+				16688A4C1C314C53002C043E /* 1.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -274,8 +324,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				16C208851C30CDF800B00015 /* ViewController.m in Sources */,
+				16C208B21C30D10C00B00015 /* PhoneBookManager.m in Sources */,
 				16C208821C30CDF800B00015 /* AppDelegate.m in Sources */,
 				16C2087F1C30CDF800B00015 /* main.m in Sources */,
+				16D5A62A1C320EA900E45C63 /* ZSJTELCALL.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -499,6 +551,7 @@
 				16C208A91C30CDF800B00015 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		16C208AA1C30CDF800B00015 /* Build configuration list for PBXNativeTarget "PhoneBookTests" */ = {
 			isa = XCConfigurationList;
@@ -507,6 +560,7 @@
 				16C208AC1C30CDF800B00015 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		16C208AD1C30CDF800B00015 /* Build configuration list for PBXNativeTarget "PhoneBookUITests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +569,7 @@
 				16C208AF1C30CDF800B00015 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
